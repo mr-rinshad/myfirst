@@ -1,1 +1,2 @@
-# for learning 
+# for learning
+this is a simple repositery
